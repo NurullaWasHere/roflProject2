@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "./test.jpg",
+    "content": "Always let a friend or family member know where you're going, who you're meeting, and when you ...",
+    "title": "SAFETY TIPS FOR DATING"
+  },
+  {
+    "id": 2,
+    "image": "./test2.jpg",
+    "content": "Empowering conversations contribute to the development of a strong and supportive community...",
+    "title": "COMMUNITY DISCUSSION: EMPOWERING CONVERSATIONS"
+  },
+  {    
+    "id": 3,
+    "image": "./test3.jpg",
+    "content": "Sarah, a software engineer, found herself stuck in a mundane job that didn't align with her passion. Despite the challenges, she decided to pursue her dream of working in artificial intelligence (AI)...", 
+    "title": "SUCCESS STORIES: REAL EXPERIENCE SHARED"
+  },
+  {
+    "id": 4,
+    "image": "./test4.jpg",
+    "content": "Hosting a Safe Dating Workshop is a fantastic way to educate and empower individuals to make informed decisions about their personal safety while dating. Here's an outline for organizing such an even",
+    "title": "UPCOMING EVENTS: SAFE DATING WORKSHOP"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "image": "./a1.jpg",
+    "name": "Andrei Chikatilo",
+    "age": 18,
+    "height": 180,
+    "bodyType": "Slim",
+    "marriageStatus": "married",
+    "hasCredit": true,
+    "description": "Has violent characters, behaves very strangely and cautiously",
+    "createdAt": "2021-05-02T12:00:00.000Z",
+    "categoryId": 2
+  },
+  {
+    "id": 2,
+    "image": "./a2.jpg",
+    "name": "Amir Bozibaev",
+    "age": 18,
+    "height": 180,
+    "bodyType": "Slim",
+    "marriageStatus": "married",
+    "hasCredit": true,
+    "description": "Constantly hides from questions, invites you to strange places, very scary",
+    "createdAt": "2021-05-02T12:00:00.000Z",
+    "categoryId": 2
+  },
+  {
+    "id": 3,
+    "image": "./a3.jpg",
+    "name": "Nurdaulet Anuarbek",
+    "age": 18,
+    "height": 180,
+    "bodyType": "Slim",
+    "marriageStatus": "married",
+    "hasCredit": true,
+    "description": "He has several passports, has previous convictions, and is also married, be careful!",
+    "createdAt": "2021-05-02T12:00:00.000Z",
+    "categoryId": 2
+  },
+  {
+    "id": 4,
+    "image": "./a4.jpg",
+    "name": "Dinislam Adilbekov",
+    "age": 18,
+    "height": 180,
+    "bodyType": "Slim",
+    "marriageStatus": "married",
+    "hasCredit": true,
+    "description": "Does not have citizenship of the country, has a previous conviction",
+    "createdAt": "2021-05-02T12:00:00.000Z",
+    "categoryId": 2
+  }
+]
